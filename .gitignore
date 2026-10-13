@@ -1,0 +1,94 @@
+
+# ==========================================
+# UNITY PROJECT - PRU213 LAB1
+# Git Ignore Configuration
+# ==========================================
+
+# Unity generated folders
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uild/
+/[Bb]uilds/
+/[Ll]ogs/
+/[Uu]ser[Ss]ettings/
+/[Mm]emoryCaptures/
+/[Rr]ecordings/
+
+# Unity generated files
+*.tmp
+*.bak
+*.log
+*.pidb
+*.pdb
+*.mdb
+*.opendb
+
+# Unity Asset Store tools
+/[Aa]ssets/AssetStoreTools*
+
+# Unity crash reports
+sysinfo.txt
+
+# Unity auto-generated IDE files
+*.csproj
+*.sln
+*.slnx
+*.suo
+*.user
+*.userprefs
+*.booproj
+*.svd
+
+# Visual Studio
+.vs/
+.vsconfig
+
+# Visual Studio Code
+.vscode/
+
+# JetBrains Rider
+.idea/
+*.sln.iml
+
+# Operating system files
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Unity cache
+/[Aa]ssets/StreamingAssets/aa.meta
+/[Aa]ssets/StreamingAssets/aa/*
+
+# Unity test coverage
+/[Cc]overage/
+/[Cc]overage[Rr]eport/
+
+# Unity addressables generated content
+/[Aa]ssets/AddressableAssetsData/*/*.bin*
+
+# Unity generated lighting
+/[Aa]ssets/**/LightingData.asset
+
+# Temporary files
+*.temp
+*.cache
+*.swp
+*.swo
+
+# ==========================================
+# KEEP IMPORTANT UNITY FILES
+# ==========================================
+# Assets/
+# Packages/
+# ProjectSettings/
+# *.meta
+# *.cs
+# *.unity
+# *.prefab
+# *.asset
+# *.png
+# *.jpg
+# *.wav
+# *.mp3
+# ==========================================

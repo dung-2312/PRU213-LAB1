@@ -1,0 +1,463 @@
+fileFormatVersion: 2
+guid: c47ce4e3fa002af439123b83e1c28a39
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PC _ Computer - Chicken Invaders 3 - Playable - Spaceship_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 416
+        width: 104
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6d9ceb2601e731419745ae413dba884
+      internalID: 1113528219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Chicken Invaders 3 - Playable - Spaceship_1
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 415
+        width: 104
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8207139ee055e8746a7cc88efb2dc446
+      internalID: 272152695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Chicken Invaders 3 - Playable - Spaceship_2
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 414
+        width: 104
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8816553bc7a4b0044974554642ec60b5
+      internalID: 23378932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Chicken Invaders 3 - Playable - Spaceship_3
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 413
+        width: 104
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 968e21d2309b8a64ba30cbf8a4fbde44
+      internalID: 1488682299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Chicken Invaders 3 - Playable - Spaceship_4
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 312
+        width: 103
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6757a95c4b3a3734b926a374689e3e9e
+      internalID: -1882974333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Chicken Invaders 3 - Playable - Spaceship_5
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 312
+        width: 102
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b044b6eff88e9ac4d8d667f052823788
+      internalID: -155687412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Chicken Invaders 3 - Playable - Spaceship_6
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 311
+        width: 101
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5fc225fc911bf24ea79bebee7bad1ac
+      internalID: 1675623435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Chicken Invaders 3 - Playable - Spaceship_7
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 310
+        width: 100
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b3225f620765144cbb1ff26354d4451
+      internalID: 1365024045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Chicken Invaders 3 - Playable - Spaceship_8
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 205
+        width: 98
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce94e96171604b64a98c2ea137f4f60e
+      internalID: -1029854078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Chicken Invaders 3 - Playable - Spaceship_9
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 205
+        width: 98
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ec62724b66a5534fbabc1c7f1ad083c
+      internalID: 1097905731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Chicken Invaders 3 - Playable - Spaceship_10
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 204
+        width: 97
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c05bb05918b731f4b802aef915c04ced
+      internalID: -1284896613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Chicken Invaders 3 - Playable - Spaceship_11
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 204
+        width: 97
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05c19227f2333474aae1fc7bbf1b354c
+      internalID: 1275141438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Chicken Invaders 3 - Playable - Spaceship_12
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 203
+        width: 96
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86c1ac83064d8c0449040025c4915d0f
+      internalID: -525925984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Chicken Invaders 3 - Playable - Spaceship_13
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 97
+        width: 95
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 105cb88948f8f9649a615d2b7fe49325
+      internalID: 688218203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Chicken Invaders 3 - Playable - Spaceship_14
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 97
+        width: 95
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee3b0ed667acebb4baa6d845196a47de
+      internalID: 1398607582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC _ Computer - Chicken Invaders 3 - Playable - Spaceship_15
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 97
+        width: 95
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fb56ffb608f2d34b8d590c2c50d5270
+      internalID: -2060236068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      PC _ Computer - Chicken Invaders 3 - Playable - Spaceship_0: 1113528219
+      PC _ Computer - Chicken Invaders 3 - Playable - Spaceship_1: 272152695
+      PC _ Computer - Chicken Invaders 3 - Playable - Spaceship_10: -1284896613
+      PC _ Computer - Chicken Invaders 3 - Playable - Spaceship_11: 1275141438
+      PC _ Computer - Chicken Invaders 3 - Playable - Spaceship_12: -525925984
+      PC _ Computer - Chicken Invaders 3 - Playable - Spaceship_13: 688218203
+      PC _ Computer - Chicken Invaders 3 - Playable - Spaceship_14: 1398607582
+      PC _ Computer - Chicken Invaders 3 - Playable - Spaceship_15: -2060236068
+      PC _ Computer - Chicken Invaders 3 - Playable - Spaceship_2: 23378932
+      PC _ Computer - Chicken Invaders 3 - Playable - Spaceship_3: 1488682299
+      PC _ Computer - Chicken Invaders 3 - Playable - Spaceship_4: -1882974333
+      PC _ Computer - Chicken Invaders 3 - Playable - Spaceship_5: -155687412
+      PC _ Computer - Chicken Invaders 3 - Playable - Spaceship_6: 1675623435
+      PC _ Computer - Chicken Invaders 3 - Playable - Spaceship_7: 1365024045
+      PC _ Computer - Chicken Invaders 3 - Playable - Spaceship_8: -1029854078
+      PC _ Computer - Chicken Invaders 3 - Playable - Spaceship_9: 1097905731
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
